@@ -1,0 +1,11 @@
+name: astr-480-env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - astropy
+  - numpy
+  - matplotlib
+  - astroplan
+  - ccdproc
+  - photutils
